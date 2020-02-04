@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Blog Home Preview](https://startbootstrap.com/assets/img/templates/blog-home.jpg)](https://blackrockdigital.github.io/startbootstrap-blog-home/)
+[![Blog Home Preview](https://startbootstrap.com/assets/img/templates/blog-home.jpg)](file:///C:/Users/120csmith/Downloads/newAVIDhomeSite.html#)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-blog-home/)**
+**[View Live Preview](file:///C:/Users/120csmith/Downloads/newAVIDhomeSite.html#)**
 
 ## Status
 
