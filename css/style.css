@@ -198,6 +198,7 @@ img {
   -webkit-box-shadow: 0px 0px 21px 2px rgba(0, 0, 0, 0.18);
   -moz-box-shadow: 0px 0px 21px 2px rgba(0, 0, 0, 0.18);
   box-shadow: 0px 0px 21px 2px rgba(0, 0, 0, 0.18);
+  color: #324fa1 !important;
 }
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,600|Open+Sans:400,600,700");
 
@@ -220,8 +221,8 @@ td.fc-today {
 }
 .fc-event-inner {
   font-family: "Open Sans", sans-serif;
-  background: #03a9f3 !important;
-  color: #fff !important;
+  background: #324fa1 !important;
+  color: white !important;
   font-size: 12px !important;
   font-weight: 400 !important;
   padding: 5px 4px !important;
@@ -294,9 +295,9 @@ span.fc-button {
 .fc-state-down,
 .fc-state-active {
   background-color: transparent !important;
-  color: #137abb !important;
+  color: #324fa1 !important;
   font-weight: 600;
-  border-bottom: 3px solid #137abb;
+  border-bottom: 3px solid #324fa1;
 }
 
 .fc .fc-header-space {
@@ -372,7 +373,7 @@ span.fc-button {
 }
 
 .fc-state-highlight > div > div.fc-day-number {
-  background-color: #ff3b30;
+  background-color: #324fa1;
   color: #ffffff;
   border-radius: 50%;
   margin: 4px;
@@ -434,8 +435,8 @@ span.fc-button {
 }
 
 .fc-state-default {
-  border-color: #137abb;
-  color: #137abb;
+  border-color: #324fa1;
+  color: #324fa1;
 }
 .fc-button-month.fc-state-default,
 .fc-button-agendaWeek.fc-state-default,
@@ -475,10 +476,10 @@ span.fc-button {
 .fc-state-disabled {
   cursor: default;
   background-image: none;
-  background-color: #ffe3e3;
+  background-color: #324fa1;
   filter: alpha(opacity=65);
   box-shadow: none;
-  border: 1px solid #ffe3e3;
+  border: 1px solid #324fa1;
   color: #ff3b30;
 }
 
@@ -854,7 +855,7 @@ table.fc-header {
 }
 .fc-sun,
 .fc-sat {
-  color: #b8b8b8;
+  color: #324fa1;
 }
 
 .fc-week .fc-day:hover .fc-day-number {
@@ -868,6 +869,7 @@ table.fc-header {
 }
 .fc-button-today {
   border: 1px solid rgba(255, 255, 255, 0);
+  color: #324fa1;
 }
 .fc-view-agendaDay thead tr.fc-first .fc-widget-header {
   text-align: right;
